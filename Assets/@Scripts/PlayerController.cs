@@ -117,6 +117,7 @@ public class PlayerController : MonoBehaviour
         return false;
     }
 
+    
     private void MoveDirection()
     {
         if (_isTurn)
