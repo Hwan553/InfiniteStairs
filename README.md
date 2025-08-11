@@ -11,4 +11,4 @@
         <img width="760" height="712" alt="Image" src="https://github.com/user-attachments/assets/70099364-9fb2-413d-a470-b3260d17efce" />
 
     - ## 프로젝트 소개 영상 🎬
-      - ## YouTube : [https://youtu.be/zEsT_Wt1tGw?si=wzm-K8P9grF5af8g]
+      - ### YouTube : [https://youtu.be/zEsT_Wt1tGw?si=wzm-K8P9grF5af8g]
